@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  I'm Livia, a junior software developer from Brazil!
+  I'm Livia, a junior developer from Brazil!
 </p>
 <h3>
   Tech Stack

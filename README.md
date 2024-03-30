@@ -16,3 +16,6 @@ Junior software developer for web and mobile, mostly android. Brazil
 <a href="https://www.linkedin.com/in/lívia-cavalcante-a97a05212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+## Support
+<a href="https://ko-fi.com/liviacnasc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="liviacnasc" /></a>

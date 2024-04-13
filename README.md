@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, fascinada por desenvolvimento mobile e web.<br>- Artista nas horas vagas</p>
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, fascinada por desenvolvimento mobile e web.<br></p>
 
 ###
 

@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/9GQ2zPL.jpeg?1"  />
-
 ###
 
 <p align="left">- Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, fascinada por desenvolvimento mobile e web.</p>
